@@ -19,13 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Homelab Dad
+header_pages:
+  - future-projects.md
 email: homelabdad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My technical blog about home labs, working out, and being a dad!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://HomelabDad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-X_username: homelabdad?
-github_username:  jaredwil
+youtube: "https://www.youtube.com/channel/UCQ_vSBxMZQawfCm3xbEw7WA"
+github_username:  jaredwil24
 
 # Build settings
 theme: minima

@@ -3,4 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
+![Banner Image](/assets/images/banner.png)
+
+# Welcome to Homelabdad
+
+Follow my journey as I build my homelab, explore networking, and experiment with tech projects.
 ---
