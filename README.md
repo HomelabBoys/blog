@@ -1,2 +1,4 @@
-# blog
-Documenting our journey
+# Deploying Jekyll notes
+
+Using Ruby 3.1
+

@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://homelabdad.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://homelabdad.github.io/blog/" rel="alternate" type="text/html" /><updated>2025-02-01T13:10:12+00:00</updated><id>https://homelabdad.github.io/blog/feed.xml</id><title type="html">Homelab Dad</title><subtitle>My technical blog about home labs, working out, and being a dad!</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://homelabdad.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://homelabdad.github.io/blog/" rel="alternate" type="text/html" /><updated>2025-02-01T22:16:57+00:00</updated><id>https://homelabdad.github.io/blog/feed.xml</id><title type="html">Homelab Dad</title><subtitle>My technical blog about home labs, working out, and being a dad!</subtitle><author><name>Jared Wilson</name></author><entry><title type="html">Welcome to Homelabdad!</title><link href="https://homelabdad.github.io/blog/blog/HLDintro/" rel="alternate" type="text/html" title="Welcome to Homelabdad!" /><published>2025-02-01T00:00:00+00:00</published><updated>2025-02-01T16:54:39+00:00</updated><id>https://homelabdad.github.io/blog/blog/HLDintro</id><content type="html" xml:base="https://homelabdad.github.io/blog/blog/HLDintro/"><![CDATA[<p>Welcome to Homelab Dad</p>
+
+<p>Check out my first youtube video here where I dive into why I’m starting this hobby, or just keep reading!</p>
+
+<p>✨ Goals:</p>
+
+<p>Learn Stuff: Dive deep into new technologies and hands-on experimentation.
+Have Fun: Because tech is awesome, and this is my way to geek out.
+Teach My Son: Share knowledge and inspire curiosity in the next generation.
+Take Control of My Digital Footprint: Gain more control over my data and improve security/privacy.</p>]]></content><author><name>Jared Wilson</name></author><category term="Blog" /><category term="goals" /><category term="intro" /><summary type="html"><![CDATA[Welcome to Homelab Dad]]></summary></entry><entry><title type="html">Future Projects!</title><link href="https://homelabdad.github.io/blog/projects/future-projects/" rel="alternate" type="text/html" title="Future Projects!" /><published>2025-02-01T00:00:00+00:00</published><updated>2025-02-01T16:54:39+00:00</updated><id>https://homelabdad.github.io/blog/projects/future-projects</id><content type="html" xml:base="https://homelabdad.github.io/blog/projects/future-projects/"><![CDATA[<h1 id="future-projects">Future Projects</h1>
+
+<p>Here are some upcoming projects I’m working on:</p>
+
+<ul>
+  <li>🏡 <strong>pfSense Router</strong> – Building my own router and customizing my homenetwork by adding VLANs and firewall as well as integrating network monitoring.</li>
+  <li>🖥 <strong>Automating Kubernetes Deployment</strong> – Using Terraform to spin up K3s nodes in my Proxmox setup.</li>
+  <li>📡 <strong>Setting Up Network Monitoring</strong> – Deploying Prometheus &amp; Grafana to monitor my home network.</li>
+  <li>🚀 <strong>Auto Deploy Blog from Obsidian</strong> – Streamlining my workflow to publish notes as blog posts.</li>
+</ul>
+
+<p>Rough Project List
+DIY Router
+Network monitoring (SNMP)
+VLAN setup (guest, work, fun, IoT, etc)
+Starlink!!!!!
+Infrastructure
+Monitoring Dashboarding (Prometheus-Grafana)
+Proxmox cluster
+Kubernetes cluster (on top of Proxmox cluster)
+Local Minecraft server deployed via Kubernetes
+Home auto magic
+NAS
+Retropi
+Homecloud
+Rack accessories
+Cable management</p>
+
+<p>Stay tuned for updates!</p>]]></content><author><name>Jared Wilson</name></author><category term="Projects" /><category term="projects" /><category term="networking" /><category term="3d-print" /><category term="hardware" /><category term="software" /><summary type="html"><![CDATA[Future Projects]]></summary></entry></feed>
