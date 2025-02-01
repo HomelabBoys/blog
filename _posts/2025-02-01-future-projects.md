@@ -1,7 +1,14 @@
 ---
-layout: page
-title: Future Projects
-permalink: /future-projects/
+title:  "Future Projects!"
+last_modified_at: 2025-02-01T11:54:39-05:00
+categories:
+  - Projects
+tags:
+  - projects
+  - networking
+  - 3d-print
+  - hardware
+  - software
 ---
 
 # Future Projects
