@@ -21,21 +21,21 @@ Here are some upcoming projects I'm working on:
 - 🚀 **Auto Deploy Blog from Obsidian** – Streamlining my workflow to publish notes as blog posts.
 
 Rough Project List
-DIY Router
-Network monitoring (SNMP)
-VLAN setup (guest, work, fun, IoT, etc)
-Starlink!!!!!
-Infrastructure
-Monitoring Dashboarding (Prometheus-Grafana)
-Proxmox cluster
-Kubernetes cluster (on top of Proxmox cluster)
-Local Minecraft server deployed via Kubernetes
-Home auto magic
-NAS
-Retropi
-Homecloud
-Rack accessories
-Cable management
+- DIY Router
+- Network monitoring (SNMP)
+- VLAN setup (guest, work, fun, IoT, etc)
+- Starlink!!!!!
+- Infrastructure
+- Monitoring Dashboarding (Prometheus-Grafana)
+- Proxmox cluster
+- Kubernetes cluster (on top of Proxmox cluster)
+- Local Minecraft server deployed via Kubernetes
+- Home auto magic
+- NAS
+- Retropi
+- Homecloud
+- Rack accessories
+- Cable management
 
 
 Stay tuned for updates!
