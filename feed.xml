@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://homelabdad.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://homelabdad.github.io/blog/" rel="alternate" type="text/html" /><updated>2025-02-01T22:16:57+00:00</updated><id>https://homelabdad.github.io/blog/feed.xml</id><title type="html">Homelab Dad</title><subtitle>My technical blog about home labs, working out, and being a dad!</subtitle><author><name>Jared Wilson</name></author><entry><title type="html">Welcome to Homelabdad!</title><link href="https://homelabdad.github.io/blog/blog/HLDintro/" rel="alternate" type="text/html" title="Welcome to Homelabdad!" /><published>2025-02-01T00:00:00+00:00</published><updated>2025-02-01T16:54:39+00:00</updated><id>https://homelabdad.github.io/blog/blog/HLDintro</id><content type="html" xml:base="https://homelabdad.github.io/blog/blog/HLDintro/"><![CDATA[<p>Welcome to Homelab Dad</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://homelabdad.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://homelabdad.github.io/blog/" rel="alternate" type="text/html" /><updated>2025-02-04T02:24:57+00:00</updated><id>https://homelabdad.github.io/blog/feed.xml</id><title type="html">Homelab Dad</title><subtitle>My technical blog about home labs, working out, and being a dad!</subtitle><author><name>Jared Wilson</name></author><entry><title type="html">Welcome to Homelabdad!</title><link href="https://homelabdad.github.io/blog/blog/HLDintro/" rel="alternate" type="text/html" title="Welcome to Homelabdad!" /><published>2025-02-01T00:00:00+00:00</published><updated>2025-02-01T16:54:39+00:00</updated><id>https://homelabdad.github.io/blog/blog/HLDintro</id><content type="html" xml:base="https://homelabdad.github.io/blog/blog/HLDintro/"><![CDATA[<p>Welcome to Homelab Dad</p>
 
 <p>Check out my first youtube video here where I dive into why I’m starting this hobby, or just keep reading!</p>
 
@@ -18,21 +18,23 @@ Take Control of My Digital Footprint: Gain more control over my data and improve
   <li>🚀 <strong>Auto Deploy Blog from Obsidian</strong> – Streamlining my workflow to publish notes as blog posts.</li>
 </ul>
 
-<p>Rough Project List
-DIY Router
-Network monitoring (SNMP)
-VLAN setup (guest, work, fun, IoT, etc)
-Starlink!!!!!
-Infrastructure
-Monitoring Dashboarding (Prometheus-Grafana)
-Proxmox cluster
-Kubernetes cluster (on top of Proxmox cluster)
-Local Minecraft server deployed via Kubernetes
-Home auto magic
-NAS
-Retropi
-Homecloud
-Rack accessories
-Cable management</p>
+<p>Rough Project List</p>
+<ul>
+  <li>DIY Router</li>
+  <li>Network monitoring (SNMP)</li>
+  <li>VLAN setup (guest, work, fun, IoT, etc)</li>
+  <li>Starlink!!!!!</li>
+  <li>Infrastructure</li>
+  <li>Monitoring Dashboarding (Prometheus-Grafana)</li>
+  <li>Proxmox cluster</li>
+  <li>Kubernetes cluster (on top of Proxmox cluster)</li>
+  <li>Local Minecraft server deployed via Kubernetes</li>
+  <li>Home auto magic</li>
+  <li>NAS</li>
+  <li>Retropi</li>
+  <li>Homecloud</li>
+  <li>Rack accessories</li>
+  <li>Cable management</li>
+</ul>
 
 <p>Stay tuned for updates!</p>]]></content><author><name>Jared Wilson</name></author><category term="Projects" /><category term="projects" /><category term="networking" /><category term="3d-print" /><category term="hardware" /><category term="software" /><summary type="html"><![CDATA[Future Projects]]></summary></entry></feed>
